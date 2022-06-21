@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TableLayoutApp</string>
+    <string name="col1">First Name</string>
+    <string name="col2">Age</string>
+    <string name="col3">Last Name</string>
+    <string name="row1FirstName">Lorem</string>
+    <string name="row1Age">33</string>
+    <string name="row1LastName">Ipsum</string>
+    <string name="row2FirstName">Lorem</string>
+    <string name="row2Age">33</string>
+    <string name="row2LastName">Ipsum</string>
+    <string name="row3FirstName">Lorem</string>
+    <string name="row3Age">33</string>
+    <string name="row3LastName">Ipsum</string>
+</resources>
